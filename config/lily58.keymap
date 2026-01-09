@@ -81,7 +81,7 @@
 &trans  &trans    &trans          &mmv MOVE_UP    &trans           &trans                             &trans        &trans          &mkp LCLK  &mkp RCLK  &trans  &trans
 &trans  &kp HOME  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &kp END                            &kp LEFT      &kp DOWN        &kp UP     &kp RIGHT  &trans  &trans
 &trans  &trans    &trans          &trans          &msc SCRL_LEFT   &msc SCRL_RIGHT  &trans    &trans  &msc SCRL_UP  &msc SCRL_DOWN  &trans     &trans     &trans  &trans
-                                  &trans          &mkp RCLK        &mkp LCLK        &trans    &trans  &trans        &to 0           &trans
+                                  &mkp RCLK       &trans           &mkp LCLK        &trans    &trans  &trans        &to 0           &trans
             >;
         };
 
