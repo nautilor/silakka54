@@ -12,6 +12,6 @@ manifest:
           import: app/west.yml
         - name: nice-view-gem #modded nice!view display
           remote: m165437 #modded nice!view display
-          revision: main #modded nice!view display
+          revision: 7794ebf7f75d7e16cb05240bcffe6c5a45ef5b44 #modded nice!view display
     self:
         path: config
